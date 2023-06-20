@@ -1,4 +1,4 @@
-# EasyNotes Application
+# Bookstore-Application
 
 Build a Restful CRUD API for a Bookstore application using Node.js, Express and MongoDB.
 
